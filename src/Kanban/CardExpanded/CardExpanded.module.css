@@ -1,0 +1,16 @@
+.container {
+    min-width: 15vw;
+    min-height: 22vh;
+    padding: 1rem 1.5rem;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 60vw;
+        min-height: 70vh;
+    }
+}
+
+.attachmentLink {
+    margin-left: .5rem;
+}

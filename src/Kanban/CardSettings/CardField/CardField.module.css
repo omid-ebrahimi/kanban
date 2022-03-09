@@ -1,0 +1,10 @@
+.container {
+    font-size: 1.75rem;
+    margin: .5rem 0;
+}
+
+.checkbox {
+    margin-right: .75rem;
+    width: 1.5rem;
+    height: 1.5rem;
+}

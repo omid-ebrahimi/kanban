@@ -1,0 +1,30 @@
+.container {
+    height: 100%;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.settingsButton {
+    font-size: 1.2rem;
+    width: 12rem;
+    height: 3rem;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    margin-right: 2rem;
+}
+
+.settingsIcon {
+    font-size: 2rem;
+    margin: 0 .5rem;
+}
+
+.board {
+    height: 90%;
+    display: flex;
+    flex-wrap: nowrap;
+}
